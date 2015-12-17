@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1048054680/PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1048054680/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1048054680/PATH/value=/opt/local/bin\:/opt/local/sbin\:/usr/local/bin\:/usr/bin\:/bin\:/usr/sbin\:/sbin\:/usr/local/bin\:/usr/local/gcc-arm-none-eabi-4_8-2014q2/bin\:/opt/X11/bin\:/usr/local/CrossPack-AVR/bin\:/Developer/esp-open-sdk/xtensa-lx106-elf/bin
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1048054680/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1048054680/appendContributed=true
